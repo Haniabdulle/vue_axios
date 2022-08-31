@@ -5,7 +5,6 @@
 </template>
 
 <script>
-// importing axios library from axios 
 import axios from "axios";
 export default {
   components: {},
