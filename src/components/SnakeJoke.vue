@@ -27,10 +27,7 @@ export default {
 </script>
 
 <style scoped>
-
-button{
+button {
   padding: 5px;
-  text-transform: uppercase;
-  font-size: 1.5rem;
 }
 </style>
